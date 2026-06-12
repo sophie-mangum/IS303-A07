@@ -169,9 +169,9 @@ def analyze_books():
     return df, avg_price_by_rating
 
 
-# -------------------------
+# ----------------------
 # VISUALIZATION
-# -------------------------
+# ----------------------
 
 def visualize(avg_price_by_rating):
     """Create and save chart."""
